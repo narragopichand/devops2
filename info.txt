@@ -2,4 +2,8 @@ name=gopi
 
 mobile=9071950182
 
-hvlkdh
+email=gnarra6@gmail.com
+
+address=javahome
+
+
